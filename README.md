@@ -1,7 +1,8 @@
-Computer Networks Lab
+# Computer Networks Lab
+
 This repository contains a collection of practical experiments and simulations related to Computer Networks, implemented using Java, TCL (for NS2), and basic networking tools on Windows.
 
-🔬 Lab Experiments Covered
+# 🔬 Lab Experiments Covered
 No.	Experiment Description
 1.	Basic Networking Commands (ipconfig, netstat, nslookup, ping, tracert)
 2.	HTTP Web Client to Download a Web Page using TCP Socket
@@ -32,11 +33,17 @@ Windows Command Line Tools
 📂 Directory Structure
 
 CN-LAB/
-├── JavaPrograms/          # Java code for socket programming, DNS, file transfer
-├── NS2Simulations/        # TCL files for congestion, TCP/UDP performance
-├── Wireshark/             # Wireshark screenshots or logs (if any)
-├── Report/                # CN LAB.docx or individual experiment reports
-└── README.md              # This file
+├── JavaPrograms/ 
+# Java code for socket programming, DNS, file transfer
+├── NS2Simulations/
+# TCL files for congestion, TCP/UDP performance
+├── Wireshark/ 
+# Wireshark screenshots or logs (if any)
+├── Report/  
+# CN LAB.docx or individual experiment reports
+└── README.md 
+# This file
+
 ⚙️ How to Run
 Java Programs
 Compile:
